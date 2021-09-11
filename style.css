@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+#canvas1 {
+    border: 1px solid rgb(15, 137, 236);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 950px;
+    height: 600px;
+    background: rgb(9, 239, 247);
+    font-family: 'Orbitron', sans-serif;
+}
