@@ -233,7 +233,7 @@ function chooseDefender() {
 //todo ham ve background
 const backgr = new Image();
 // backgr.src = '/pic/background.jpg';
-backgr.src = '/pic/me.jpg';
+backgr.src = '/pic/background.jpg';
 
 function drawBgr() {
     ctx.drawImage(backgr, 0, 100, 900, 600)
